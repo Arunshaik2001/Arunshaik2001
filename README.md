@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Ahron</h1>
 <h3 align="center">A Software Engineer, I like to develop mobile apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="viveky259259" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="viveky259259" /> </p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunshaik2001&show_icons=true&locale=en" alt="shaik-ahron" /></p>
