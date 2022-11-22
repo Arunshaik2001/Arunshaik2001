@@ -3,11 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="Arunshaik2001" /> </p>
 
+<p align="center">&nbsp;<img align="center" src="https://stats.justsong.cn/api/leetcode/?username=Arun432&theme=dark" alt="shaik-ahron" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunshaik2001&show_icons=true&locale=en" alt="shaik-ahron" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arunshaik2001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunshaik2001&show_icons=true&locale=en&layout=compact" alt="shaik-ahron" /></p>
 
 
 
