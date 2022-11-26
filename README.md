@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="Arunshaik2001" /> </p>
 
+
 <p align="center"> <img src="https://stardev.io/developers/Arunshaik2001/badge/languages/global.svg" /> </p>
+
 
 <p align="center">&nbsp;<img align="center" src="https://stats.justsong.cn/api/leetcode/?username=Arun432&theme=dark" alt="shaik-ahron" /></p>
 
