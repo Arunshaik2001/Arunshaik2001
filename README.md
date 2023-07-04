@@ -19,7 +19,7 @@
 
 
 
-- 🌱 I’m currently learning **IOS** and learning new things in **Android** and **Flutter**.
+- 🌱 I’m currently learning\working on server driven ui in flutter.i am learning new things in **Android**, **ios**, **react native** and **Flutter**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunshaik2001?tab=repositories](https://github.com/Arunshaik2001?tab=repositories)
 
