@@ -15,7 +15,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunshaik2001" alt="Arunshaik2001" /></a> </p>
 
 
-- 🌱I am learning new things in **Android**, **ios**, **react native**, **Flutter** and **Web Development**.
+- 🌱I am open for new oppurtunities. I am learning new things in **Android**, **ios**, **react native**, **Flutter** and **Web Development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunshaik2001?tab=repositories](https://github.com/Arunshaik2001?tab=repositories)
 
