@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahron</h1>
 
-<h3 align="center">A Software Engineer, I like to develop mobile and web apps.</h3>
+<h3 align="center">A Software Engineer, I like to develop mobile apps and distributed systems.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="Arunshaik2001" /> </p>
 
 
@@ -15,7 +15,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunshaik2001" alt="Arunshaik2001" /></a> </p>
 
 
-- 🌱I am open for new oppurtunities. I am learning new things in **Android**, **ios**, **react native**, **Flutter** and **Web Development**.
+- 🌱I am open for new oppurtunities.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunshaik2001?tab=repositories](https://github.com/Arunshaik2001?tab=repositories)
 
