@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahron</h1>
 
-<h3 align="center">A Software Engineer, I like to develop mobile apps and distributed systems.</h3>
+<h3 align="center">A Software Engineer, I like to develop mobile apps and distributed backend systems.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arunshaik2001&label=Views&color=blue&style=plastic" alt="Arunshaik2001" /> </p>
 
 
